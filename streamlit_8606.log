@@ -1,0 +1,100 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8606
+  Network URL: http://192.168.11.16:8606
+  External URL: http://153.240.36.158:8606
+
+[SerpAPI DEBUG] IR pdf search query='三菱電機 決算説明資料 pdf'
+[SerpAPI DEBUG] Found IR PDF: https://www.mitsubishielectric.co.jp/investors/data/management-report/pdf/financial-result/20250731.pdf
+[IR Extractor ERROR] 財務データ取得失敗: ValueError: Invalid format specifier ' "5210億円",
+  "営業利益率": "8.5パーセント",
+  "自己資本比率": "45.2パーセント"
+' for object of type 'st
+[SerpAPI DEBUG] LLM industry classification: 製造業
+[SerpAPI DEBUG] market search query='製造業 市場規模 2024 日本'
+[SerpAPI DEBUG] Results keys: ['search_metadata', 'search_parameters', 'search_information', 'organic_results', 'related_searches', 'pagination', 'serpapi_pagination']
+[SerpAPI DEBUG] organic_results count: 5
+[SerpAPI DEBUG] First result sample - title: 内閣府、企業行動に関する調査 2024年度 製造業の実質成長 ..., snippet exists: True
+[OpenAI API] Received financials type: dict
+[OpenAI API] Financials content (first 200 chars): {"error": "ValueError: Invalid format specifier ' \"5210億円\",\n  \"営業利益率\": \"8.5パーセント\",\n  \"自己資本比率\": \"45.2パーセント\"\n' for object of type 'st"}...
+
+================================================================================
+[OpenAI API] Step1リクエスト送信
+================================================================================
+[System Role - 最初の500文字]
+【自動取得データ】以下を分析の参考にしてください:
+
+■ 財務情報
+取得できませんでした(ValueError: Invalid format specifier ' "5210億円",
+  "営業利益率": "8.5パーセント",
+  "自己資本比率": "45.2パーセント"
+' for object of type 'st)
+
+■ 業界動向(Web検索結果)
+【内閣府、企業行動に関する調査 2024年度 製造業の実質成長 ...】
+2024年度の全産業の実質成長率は1.6%。情報通信や金融、サービス、証券・先物取引などが高くなっている。製造業は1.4%で、業種別では電気機器 ...
+
+【製造業界の市場規模（Deep research） - AITSolutionsNet】
+日本の製造業市場規模は2024年時点で約358兆円。自動車・機械・電子部品を中心にGDPの約20％を占める日本経済の中核産業です。本記事では製造業の出荷 ...
+
+【2024年版 ものづくり白書 概 要】
+近年、国内投資の重要性が高まる一方、日系大手製造業の海外売上比率は20年間で急増し、過半を海外. で稼ぐ構...
+
+[User Role - 最初の500文字]
+あなたは「採用戦略立案のための高度な企業分析ストラテジスト」です。
+ユーザーから提供される「会社名」と「求人情報」に基づき、以下の厳格なフォーマットに従って分析レポートを作成してください。
+
+# 目的
+1. **構造化と分離:** 「全社（マクロ・財務）」と「事業（ミクロ・現場）」の情報を厳密に切り分け、混同を防ぐ。
+2. **多層的な競合認識:** 「ビジネス上のライバル（顧客の選択肢）」と「採用上のライバル（候補者の転職先候補）」を明確に使い分ける。
+3. **EVPとPain:** 候補者にとっての具体的なメリットと、現場の切実な課題（Pain）を接続する。
+
+# 入力情報
+会社名: 三菱電機
+
+求人情報:
+ルームエアコン等の家庭用空調機製造における工法開発(組立検査技術、または板金加工技術)【静岡製作所】
+職務内容
+●採用背景
+ルームエアコンのグローバル市場拡大に向けた安定供給体制の構築、及びものづくり力強化による高収益性を追求した生産体制の構築のために増員する。
+
+★静岡製作所に関して
+https://www.mitsubishielectric.co.jp/saiyo/gr...
+
+[Model] gpt-4o, max_tokens=12000, temperature=0.7
+================================================================================
+
+
+================================================================================
+[OpenAI API] Step2リクエスト送信
+================================================================================
+[User Role - 最初の500文字]
+あなたは「RPO業界でトップの実績を持つシニア・コンサルタント」です。
+ユーザーから入力される「Step 1の分析レポート」に対し、プロの基準で厳しくレビューを行い、**情報の重複や視点のブレを修正した「完全版」**を作成してください。
+
+# 目的
+1. **スコープの分離:** 「全社（マクロ）」と「事業（ミクロ）」の内容重複を排除し、構造を明確にする。
+2. **比較軸の整理:** 「ビジネス上の競合」と「採用上の競合」を意図的に使い分け、混乱を防ぐ。
+3. **実戦的修正:** 現場マネージャーやハイレイヤー候補者に刺さる「生々しい戦略」へ書き換える。
+
+# 入力情報
+- Step 1で生成された分析レポート
+
+# 思考プロセスと出力構成
+以下の手順で思考し、出力してください。口調は「丁寧だが妥協のないプロフェッショナルトーン」で統一してください。
+
+## 1. 【シニアコンサルタントの戦略フィードバック】
+
+入力レポートを読み込み、以下の3点で改善点を指摘してください。
+
+* **視点1：スコープの分離 (Structural Integrity)**
+    * Step 2...
+
+[Model] gpt-4o, max_tokens=12000, temperature=0.7
+================================================================================
+
+  Stopping...

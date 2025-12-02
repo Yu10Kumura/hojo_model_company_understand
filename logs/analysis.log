@@ -1,0 +1,155 @@
+2025-12-02 08:20:28 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 08:20:28 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 08:20:28 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 08:20:50 [INFO] modules.openai_api: [Step1] response length: 1401
+2025-12-02 08:20:50 [INFO] __main__: [UI] Step1 length: 1401 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 08:20:50 [INFO] modules.openai_api: [Step2] request user length: 689
+2025-12-02 08:21:04 [INFO] modules.openai_api: [Step2] response length: 837
+2025-12-02 08:21:04 [INFO] __main__: [UI] Step2 length: 837 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 08:32:53 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 08:32:53 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 08:32:53 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 08:33:26 [INFO] modules.openai_api: [Step1] response length: 2251
+2025-12-02 08:33:26 [INFO] __main__: [UI] Step1 length: 2251 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 08:33:26 [INFO] modules.openai_api: [Step2] request user length: 2964
+2025-12-02 08:34:46 [INFO] modules.openai_api: [Step2] response length: 4493
+2025-12-02 08:34:46 [INFO] __main__: [UI] Step2 length: 4493 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 08:40:42 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 08:40:42 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 08:40:42 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 08:41:18 [INFO] modules.openai_api: [Step1] response length: 1445
+2025-12-02 08:41:18 [INFO] __main__: [UI] Step1 length: 1445 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 08:41:18 [INFO] modules.openai_api: [Step2] request user length: 2158
+2025-12-02 08:42:26 [INFO] modules.openai_api: [Step2] response length: 4124
+2025-12-02 08:42:26 [INFO] __main__: [UI] Step2 length: 4124 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 09:10:46 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 09:10:46 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 09:10:46 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 09:11:19 [INFO] modules.openai_api: [Step1] response length: 1972
+2025-12-02 09:11:19 [INFO] __main__: [UI] Step1 length: 1972 (company=ソニーセミコンダクタマニュファクチャリング（株）　経験者採用特設サイト)
+2025-12-02 09:11:19 [INFO] modules.openai_api: [Step2] request user length: 2685
+2025-12-02 09:11:57 [INFO] modules.openai_api: [Step2] response length: 2310
+2025-12-02 09:11:57 [INFO] __main__: [UI] Step2 length: 2310 (company=ソニーセミコンダクタマニュファクチャリング（株）　経験者採用特設サイト)
+2025-12-02 09:15:55 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 09:15:55 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 09:15:55 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 09:16:32 [INFO] modules.openai_api: [Step1] response length: 2507
+2025-12-02 09:16:32 [INFO] __main__: [UI] Step1 length: 2507 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 09:16:32 [INFO] modules.openai_api: [Step2] request user length: 2651
+2025-12-02 09:17:04 [INFO] modules.openai_api: [Step2] response length: 2651
+2025-12-02 09:17:04 [INFO] __main__: [UI] Step2 length: 2651 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 10:07:37 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 10:07:37 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 10:07:37 [INFO] modules.openai_api: [Step1] request lengths: system=746, user=4895
+2025-12-02 10:08:07 [INFO] modules.openai_api: [Step1] response length: 2511
+2025-12-02 10:08:07 [INFO] __main__: [UI] Step1 length: 2511 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 10:08:07 [INFO] modules.openai_api: [Step2] request user length: 2655
+2025-12-02 10:08:37 [INFO] modules.openai_api: [Step2] response length: 2511
+2025-12-02 10:08:37 [INFO] __main__: [UI] Step2 length: 2511 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 10:15:44 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 10:15:44 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 10:15:44 [INFO] modules.openai_api: [Step1] request lengths: system=746, user=4895
+2025-12-02 10:16:21 [INFO] modules.openai_api: [Step1] response length: 1555
+2025-12-02 10:16:21 [INFO] __main__: [UI] Step1 length: 1555 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 10:16:21 [INFO] modules.openai_api: [Step2] request user length: 1699
+2025-12-02 10:16:42 [INFO] modules.openai_api: [Step2] response length: 1555
+2025-12-02 10:16:42 [INFO] __main__: [UI] Step2 length: 1555 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 10:28:43 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 10:28:43 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 10:28:43 [INFO] modules.openai_api: [Step1] request lengths: system=746, user=4895
+2025-12-02 10:30:04 [INFO] modules.openai_api: [Step1] response length: 6303
+2025-12-02 10:30:04 [INFO] __main__: [UI] Step1 length: 6303 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 10:30:04 [INFO] modules.openai_api: [Step2] request user length: 6447
+2025-12-02 10:30:30 [INFO] modules.openai_api: [Step2] response length: 2309
+2025-12-02 10:30:30 [INFO] __main__: [UI] Step2 length: 2309 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 10:32:52 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 10:32:52 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 10:32:52 [INFO] modules.openai_api: [Step1] request lengths: system=746, user=4895
+2025-12-02 10:33:17 [INFO] modules.openai_api: [Step1] response length: 2021
+2025-12-02 10:33:17 [INFO] __main__: [UI] Step1 length: 2021 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 10:33:17 [INFO] modules.openai_api: [Step2] request user length: 2165
+2025-12-02 10:34:13 [INFO] modules.openai_api: [Step2] response length: 2025
+2025-12-02 10:34:13 [INFO] __main__: [UI] Step2 length: 2025 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 10:35:36 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 10:35:36 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 10:35:36 [INFO] modules.openai_api: [Step1] request lengths: system=746, user=4895
+2025-12-02 10:36:10 [INFO] modules.openai_api: [Step1] response length: 2404
+2025-12-02 10:36:10 [INFO] __main__: [UI] Step1 length: 2404 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 10:36:10 [INFO] modules.openai_api: [Step2] request user length: 2548
+2025-12-02 10:37:05 [INFO] modules.openai_api: [Step2] response length: 2404
+2025-12-02 10:37:05 [INFO] __main__: [UI] Step2 length: 2404 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 11:59:11 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 11:59:11 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 11:59:11 [INFO] modules.openai_api: [Step1] request lengths: system=723, user=11307
+2025-12-02 12:00:49 [INFO] modules.openai_api: [Step1] response length: 7911
+2025-12-02 12:00:49 [INFO] __main__: [UI] Step1 length: 7911 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 12:00:49 [INFO] modules.openai_api: [Step2] request user length: 8162
+2025-12-02 12:01:10 [INFO] modules.openai_api: [Step2] response length: 1629
+2025-12-02 12:01:10 [INFO] __main__: [UI] Step2 length: 1629 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 12:13:48 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 12:13:48 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 12:13:48 [INFO] modules.openai_api: [Step1] request lengths: system=723, user=11307
+2025-12-02 12:15:07 [INFO] modules.openai_api: [Step1] response length: 5647
+2025-12-02 12:15:07 [INFO] __main__: [UI] Step1 length: 5647 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 12:15:07 [INFO] modules.openai_api: [Step2] request user length: 5898
+2025-12-02 12:15:44 [INFO] modules.openai_api: [Step2] response length: 1741
+2025-12-02 12:15:44 [INFO] __main__: [UI] Step2 length: 1741 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 12:20:22 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 12:20:22 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 12:20:22 [INFO] modules.openai_api: [Step1] request lengths: system=723, user=11307
+2025-12-02 12:20:22 [ERROR] modules.openai_api: [Step1] OpenAI call failed: Completions.create() got an unexpected keyword argument 'max_completion_tokens'
+Traceback (most recent call last):
+  File "/Users/yutokumura/Desktop/Python/企業理解HOJO_model_v4/modules/openai_api.py", line 164, in generate_step1_report
+    response = client.chat.completions.create(
+        model="gpt-5-mini",
+    ...<5 lines>...
+        #temperature=0.7,
+    )
+  File "/Users/yutokumura/Desktop/Python/.venv/lib/python3.13/site-packages/openai/_utils/_utils.py", line 272, in wrapper
+    return func(*args, **kwargs)
+TypeError: Completions.create() got an unexpected keyword argument 'max_completion_tokens'
+2025-12-02 12:32:22 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 12:32:22 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 12:32:22 [INFO] modules.openai_api: [Step1] request lengths: system=723, user=11307
+2025-12-02 12:32:22 [ERROR] modules.openai_api: [Step1] OpenAI call failed: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0.7 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'te
+Traceback (most recent call last):
+  File "/Users/yutokumura/Desktop/Python/企業理解HOJO_model_v4/modules/openai_api.py", line 164, in generate_step1_report
+    response = client.chat.completions.create(
+        model="gpt-5-mini",
+    ...<5 lines>...
+        temperature=0.7,
+    )
+  File "/Users/yutokumura/Desktop/Python/.venv/lib/python3.13/site-packages/openai/_utils/_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/yutokumura/Desktop/Python/.venv/lib/python3.13/site-packages/openai/resources/chat/completions/completions.py", line 1189, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<47 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/yutokumura/Desktop/Python/.venv/lib/python3.13/site-packages/openai/_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/yutokumura/Desktop/Python/.venv/lib/python3.13/site-packages/openai/_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported value: 'temperature' does not support 0.7 with this model. Only the default (1) value is supported.", 'type': 'invalid_request_error', 'param': 'temperature', 'code': 'unsupported_value'}}
+2025-12-02 12:34:39 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 12:34:39 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "情報不足（要確認）", "営業利益率": "情報不足（要確認）", "自己資本比率": "情報不足（要確認）", "企業概要": "【ウェブ検索による企業情報（自動収集）】\n\n【会社概要 | ソニーセミコンダクタソリューションズグループ】\nソニーセミコンダクタソリューションズグループは、イメージセンサーを中心として、マイクロディスプレイ、各種LSI、半導体レーザーなどを含む...
+2025-12-02 12:34:39 [INFO] modules.openai_api: [Step1] request lengths: system=723, user=11307
+2025-12-02 12:36:34 [INFO] modules.openai_api: [Step1] response length: 8209
+2025-12-02 12:36:34 [INFO] __main__: [UI] Step1 length: 8209 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 12:36:34 [INFO] modules.openai_api: [Step2] request user length: 9301
+2025-12-02 12:37:58 [INFO] modules.openai_api: [Step2] response length: 6502
+2025-12-02 12:37:58 [INFO] __main__: [UI] Step2 length: 6502 (company=ソニーセミコンダクタマニュファクチャリング（株）)
+2025-12-02 13:24:54 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 13:24:54 [INFO] modules.openai_api: [Step1] financials preview: {"売上高": "106,326.8億円（2026年3月期第2四半期累計：売上収益 10,632,680 百万円）／通期予想 207,000億円（2026年3月期通期予想：売上収益 20,700,000 百万円）", "営業利益率": "4.12%（当中間期実績：営業利益 438,144 百万円 ÷ 売上収益 10,632,680 百万円）／通期予想 2.66%（550,000 ÷ 20,700,...
+2025-12-02 13:24:54 [INFO] modules.openai_api: [Step1] request lengths: system=856, user=9560
+2025-12-02 13:26:52 [INFO] modules.openai_api: [Step1] response length: 8315
+2025-12-02 13:26:52 [INFO] __main__: [UI] Step1 length: 8315 (company=本田技研工業株式会社)
+2025-12-02 13:26:52 [INFO] modules.openai_api: [Step2] request user length: 9407
+2025-12-02 13:28:44 [INFO] modules.openai_api: [Step2] response length: 6491
+2025-12-02 13:28:44 [INFO] __main__: [UI] Step2 length: 6491 (company=本田技研工業株式会社)

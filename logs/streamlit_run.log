@@ -1,0 +1,59 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8511
+  Network URL: http://192.168.11.16:8511
+  External URL: http://153.240.36.158:8511
+
+[IR Extractor] 企業タイプ判定: ソニーセミコンダクタマニュファクチャリング（株）　 → unknown
+[SerpAPI DEBUG] IR pdf search query 1/11='ソニーセミコンダクタマニュファクチャリング（株）　 決算説明資料 pdf'
+[SerpAPI DEBUG] Found IR PDF (score: 8): 2024年12月期 中間期 決算説明資料 - アルプス技研 -> https://www.alpsgiken.co.jp/ir/library/pdf/data/ir20240912_02.pdf
+[IR Extractor] 企業照合失敗: 'ソニーセミコンダクタマニュファクチャリング（株）　' ≠ PDF内容
+[SerpAPI DEBUG] LLM industry classification: IT業界
+[SerpAPI DEBUG] market search query='IT業界 市場規模 2024 日本'
+[SerpAPI DEBUG] Results keys: ['search_metadata', 'search_parameters', 'search_information', 'organic_results', 'related_searches', 'pagination', 'serpapi_pagination']
+[SerpAPI DEBUG] organic_results count: 5
+[SerpAPI DEBUG] First result sample - title: 国内企業のIT投資に関する調査を実施（2024年）, snippet exists: True
+2025-12-02 08:20:28 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 08:20:28 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 08:20:28 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 08:20:50 [INFO] modules.openai_api: [Step1] response length: 1401
+2025-12-02 08:20:50 [INFO] __main__: [UI] Step1 length: 1401 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 08:20:50 [INFO] modules.openai_api: [Step2] request user length: 689
+2025-12-02 08:21:04 [INFO] modules.openai_api: [Step2] response length: 837
+2025-12-02 08:21:04 [INFO] __main__: [UI] Step2 length: 837 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+[IR Extractor] 企業タイプ判定: ソニーセミコンダクタマニュファクチャリング（株）　 → unknown
+[SerpAPI DEBUG] IR pdf search query 1/11='ソニーセミコンダクタマニュファクチャリング（株）　 決算説明資料 pdf'
+[SerpAPI DEBUG] Found IR PDF (score: 8): 2024年12月期 中間期 決算説明資料 - アルプス技研 -> https://www.alpsgiken.co.jp/ir/library/pdf/data/ir20240912_02.pdf
+[IR Extractor] 企業照合失敗: 'ソニーセミコンダクタマニュファクチャリング（株）　' ≠ PDF内容
+[SerpAPI DEBUG] LLM industry classification: IT業界
+[SerpAPI DEBUG] market search query='IT業界 市場規模 2024 日本'
+[SerpAPI DEBUG] Results keys: ['search_metadata', 'search_parameters', 'search_information', 'organic_results', 'related_searches', 'pagination', 'serpapi_pagination']
+[SerpAPI DEBUG] organic_results count: 5
+[SerpAPI DEBUG] First result sample - title: 国内企業のIT投資に関する調査を実施（2024年）, snippet exists: True
+2025-12-02 08:32:53 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 08:32:53 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 08:32:53 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 08:33:26 [INFO] modules.openai_api: [Step1] response length: 2251
+2025-12-02 08:33:26 [INFO] __main__: [UI] Step1 length: 2251 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+2025-12-02 08:33:26 [INFO] modules.openai_api: [Step2] request user length: 2964
+2025-12-02 08:34:46 [INFO] modules.openai_api: [Step2] response length: 4493
+2025-12-02 08:34:46 [INFO] __main__: [UI] Step2 length: 4493 (company=ソニーセミコンダクタマニュファクチャリング（株）　)
+[IR Extractor] 企業タイプ判定: ソニーセミコンダクタマニュファクチャリング（株）　経験者採用特設サイト → unknown
+[SerpAPI DEBUG] IR pdf search query 1/11='ソニーセミコンダクタマニュファクチャリング（株）　経験者採用特設サイト 決算説明資料 pdf'
+[SerpAPI DEBUG] Found IR PDF (score: 5): FY25/7 Q2 - 第2四半期 決算説明資料 -> https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250314/20250313593549.pdf
+[IR Extractor] 企業照合失敗: 'ソニーセミコンダクタマニュファクチャリング（株）　経験者採用特設サイト' ≠ PDF内容
+[SerpAPI DEBUG] LLM industry classification: IT業界
+[SerpAPI DEBUG] market search query='IT業界 市場規模 2024 日本'
+[SerpAPI DEBUG] Results keys: ['search_metadata', 'search_parameters', 'search_information', 'organic_results', 'related_searches', 'pagination', 'serpapi_pagination']
+[SerpAPI DEBUG] organic_results count: 5
+[SerpAPI DEBUG] First result sample - title: 国内企業のIT投資に関する調査を実施（2024年）, snippet exists: True
+2025-12-02 09:10:46 [INFO] modules.openai_api: [Step1] financials type: dict
+2025-12-02 09:10:46 [INFO] modules.openai_api: [Step1] financials preview: {"error": "対象企業のIR資料ではありません"}...
+2025-12-02 09:10:46 [INFO] modules.openai_api: [Step1] request lengths: system=688, user=4895
+2025-12-02 09:11:19 [INFO] modules.openai_api: [Step1] response length: 1972
+2025-12-02 09:11:19 [INFO] __main__: [UI] Step1 length: 1972 (company=ソニーセミコンダクタマニュファクチャリング（株）　経験者採用特設サイト)
+2025-12-02 09:11:19 [INFO] modules.openai_api: [Step2] request user length: 2685
+2025-12-02 09:11:57 [INFO] modules.openai_api: [Step2] response length: 2310
+2025-12-02 09:11:57 [INFO] __main__: [UI] Step2 length: 2310 (company=ソニーセミコンダクタマニュファクチャリング（株）　経験者採用特設サイト)
+  Stopping...
