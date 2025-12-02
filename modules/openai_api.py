@@ -168,7 +168,6 @@ def generate_step1_report(
                 {"role": "user", "content": final_user_prompt}
             ],
             max_completion_tokens=16000,
-            #temperature=0.7,
         )
         content = response.choices[0].message.content
         logger.info("[Step1] response length: %d", len(content or ""))
@@ -211,7 +210,6 @@ def generate_step2_report(
             model="gpt-5-mini",
             messages=[{"role": "user", "content": final_prompt}],
             max_completion_tokens=16000,
-            #temperature=0.7,
         )
         content = response.choices[0].message.content
         logger.info("[Step2] response length: %d", len(content or ""))
